@@ -11,5 +11,5 @@ PHP IDE for laravel development
 /****************************************************************************/
 
 
-
 Thank you for feedback !
+kazekasdl@gmail.com
